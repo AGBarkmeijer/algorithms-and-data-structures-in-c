@@ -115,6 +115,12 @@
 		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/assignment2.c">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeExp.c">
+			<Option target="algorithms_and_data_structures_in_c"/>
+		</Unit>
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeExp.h">
+			<Option target="algorithms_and_data_structures_in_c"/>
+		</Unit>
 		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>

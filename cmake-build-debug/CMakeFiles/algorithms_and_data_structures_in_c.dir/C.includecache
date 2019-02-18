@@ -68,6 +68,18 @@ stdlib.h
 scanner.h
 /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.h
 
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeExp.c
+stdio.h
+-
+stdlib.h
+-
+scanner.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.h
+recognizeExp.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeExp.h
+
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeExp.h
+
 /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c
 stdio.h
 -

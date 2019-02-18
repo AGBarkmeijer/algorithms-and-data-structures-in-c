@@ -27,17 +27,17 @@
 #include "scanner.h"
 //#include "recognizeExp.c"
 
-int acceptNumber(List *lp);
+int acceptNumber2(List *lp);
 
-int acceptIdentifier(List *lp);
+int acceptIdentifier2(List *lp);
 
-int acceptCharacter(List *lp, char c);
+int acceptCharacter2(List *lp, char c);
 
-int acceptExpression(List *lp);
+int acceptExpression2(List *lp);
 
-int acceptTerm(List *lp);
+int acceptTerm2(List *lp);
 
-int acceptEquation(List *lp);
+int acceptEquation2(List *lp);
 
 //void recognizeEquation();
 
@@ -50,7 +50,7 @@ int acceptEquation(List *lp);
  * the token list. Otherwise they yield 0 and the pointer remains unchanged.
  */
 
-int acceptNumber(List *lp) {
+int acceptNumber2(List *lp) {
     if (*lp != NULL && (*lp)->tt == Number) {
         *lp = (*lp)->next;
         return 1;
@@ -59,7 +59,7 @@ int acceptNumber(List *lp) {
 }
 
 // store identifiers in identifierList
-int acceptIdentifier(List *lp) {
+int acceptIdentifier2(List *lp) {
     if (*lp != NULL && (*lp)->tt == Identifier) {
         printf("\n identifier = \t %s \n", (*lp)->t.identifier);
 
@@ -69,7 +69,7 @@ int acceptIdentifier(List *lp) {
     return 0;
 }
 
-int acceptCharacter(List *lp, char c) {
+int acceptCharacter2(List *lp, char c) {
     if (*lp != NULL && (*lp)->tt == Symbol && ((*lp)->t).symbol == c) {
         *lp = (*lp)->next;
         return 1;
@@ -78,8 +78,7 @@ int acceptCharacter(List *lp, char c) {
 }
 
 // store the successor of ^ in powerList
-int acceptDegree(List *lp) {
-    char *powerList;
+int acceptDegree2(List *lp) {
     if (*lp != NULL && (*lp)->tt == Number) {
         printf("\n power = \t\t %d \n", (*lp)->t.number);
 
@@ -97,20 +96,20 @@ int acceptDegree(List *lp) {
  */
 
 // <term> ::= <nat> | [ <nat> ] <identifier> [ ‘^’ <nat> ]
-int acceptTerm(List *lp) {
-    if (acceptIdentifier(lp)) {
-        if (acceptCharacter(lp, '^')) {
-            if (acceptDegree(lp)) {
+int acceptTerm2(List *lp) {
+    if (acceptIdentifier2(lp)) {
+        if (acceptCharacter2(lp, '^')) {
+            if (acceptDegree2(lp)) {
                 return 1;
             }
             return 0;
         }
         return 1;
     }
-    if (acceptNumber(lp)) {
-        if (acceptIdentifier(lp)) {
-            if (acceptCharacter(lp, '^')) {
-                if (acceptDegree(lp)) {
+    if (acceptNumber2(lp)) {
+        if (acceptIdentifier2(lp)) {
+            if (acceptCharacter2(lp, '^')) {
+                if (acceptDegree2(lp)) {
                     return 1;
                 }
                 return 0;
@@ -123,46 +122,44 @@ int acceptTerm(List *lp) {
 }
 
 // <expression> ::= [ ‘–’ ] <term> { ‘+’ <term> | ‘–’ <term> } .
-int acceptExpression(List *lp) {
-    if (acceptTerm(lp)) {
-        while (acceptCharacter(lp, '+') || acceptCharacter(lp, '-')) {
-            if (!acceptTerm(lp)) {
+int acceptExpression2(List *lp) {
+    if (acceptTerm2(lp)) {
+        while (acceptCharacter2(lp, '+') || acceptCharacter2(lp, '-')) {
+            if (!acceptTerm2(lp)) {
                 return 0;
             }
         } /* no + or -, so we reached the end of the expression */
         return 1;
-    } else if (acceptCharacter(lp, '-')) {
-        return acceptExpression(lp);
+    } else if (acceptCharacter2(lp, '-')) {
+        return acceptExpression2(lp);
     }
     return 0;
 }
 
 // <equation> ::= <expression> ‘=’ <expression> .
-int acceptEquation(List *lp) {
-    if (acceptExpression(lp) && acceptCharacter(lp, '=') && acceptExpression(lp)) {
+int acceptEquation2(List *lp) {
+    if (acceptExpression2(lp) && acceptCharacter2(lp, '=') && acceptExpression2(lp)) {
         return 1;
     }
     return 0;
 }
 
-
 // checks if identifiers in identifierList are the same
-int identifierChecker(){
+int identifierChecker2(){
     return 1;
 }
 
-
 // if identifiers are the same, get highest value from powerList
-int degreeChecker() {
+int degreeChecker2() {
     int degree = 9;
-    if(identifierChecker() == 1) {
+    if(identifierChecker2() == 1) {
         return degree;
     }
     return 0;
 }
 
 /* The function recognizeEquations demonstrates the recognizer. */
-void recognizeEquations() {
+void recognizeEquations2() {
     char *ar;
     List tl, tl1;
     printf("give an equation: ");
@@ -172,12 +169,12 @@ void recognizeEquations() {
         printf("the token list is ");
         printList(tl);
         tl1 = tl;
-        if (acceptEquation(&tl1) && tl1 == NULL) {
+        if (acceptEquation2(&tl1) && tl1 == NULL) {
             printf("this is an equation");
-            if(degreeChecker() == 0){
+            if(degreeChecker2() == 0){
                 printf(", but not in 1 variable");
             }else{
-                printf(" in 1 variable of degree %d", degreeChecker());
+                printf(" in 1 variable of degree %d", degreeChecker2());
             }
         } else {
             printf("this is not an equation\n");
@@ -193,8 +190,7 @@ void recognizeEquations() {
 
 
 int main(int argc, char *argv[]) {
-    printf("test\n");
-    recognizeEquations();
+    recognizeEquations2();
     //recognizeTerms();
     return 0;
 }

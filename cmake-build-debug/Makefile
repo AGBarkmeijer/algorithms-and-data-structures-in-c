@@ -231,6 +231,33 @@ assignment2code/assignment2.c.s:
 	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.s
 .PHONY : assignment2code/assignment2.c.s
 
+assignment2code/recognizeExp.o: assignment2code/recognizeExp.c.o
+
+.PHONY : assignment2code/recognizeExp.o
+
+# target to build an object file
+assignment2code/recognizeExp.c.o:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o
+.PHONY : assignment2code/recognizeExp.c.o
+
+assignment2code/recognizeExp.i: assignment2code/recognizeExp.c.i
+
+.PHONY : assignment2code/recognizeExp.i
+
+# target to preprocess a source file
+assignment2code/recognizeExp.c.i:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.i
+.PHONY : assignment2code/recognizeExp.c.i
+
+assignment2code/recognizeExp.s: assignment2code/recognizeExp.c.s
+
+.PHONY : assignment2code/recognizeExp.s
+
+# target to generate assembly for a file
+assignment2code/recognizeExp.c.s:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.s
+.PHONY : assignment2code/recognizeExp.c.s
+
 assignment2code/scanner.o: assignment2code/scanner.c.o
 
 .PHONY : assignment2code/scanner.o
@@ -279,6 +306,9 @@ help:
 	@echo "... assignment2code/assignment2.o"
 	@echo "... assignment2code/assignment2.i"
 	@echo "... assignment2code/assignment2.s"
+	@echo "... assignment2code/recognizeExp.o"
+	@echo "... assignment2code/recognizeExp.i"
+	@echo "... assignment2code/recognizeExp.s"
 	@echo "... assignment2code/scanner.o"
 	@echo "... assignment2code/scanner.i"
 	@echo "... assignment2code/scanner.s"

@@ -21,8 +21,8 @@ set(SOURCE_FILES
         #cmake-build-debug/assignment2code/mainRecog.c
         #cmake-build-debug/assignment2code/mainScan.c
         cmake-build-debug/assignment2code/assignment2.c
-        #cmake-build-debug/assignment2code/recognizeExp.c
-        #cmake-build-debug/assignment2code/recognizeExp.h
+        cmake-build-debug/assignment2code/recognizeExp.c
+        cmake-build-debug/assignment2code/recognizeExp.h
         cmake-build-debug/assignment2code/scanner.c
         cmake-build-debug/assignment2code/scanner.h
 
