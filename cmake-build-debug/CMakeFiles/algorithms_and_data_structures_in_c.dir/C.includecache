@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.c
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c
 stdlib.h
 -
 stdio.h
@@ -14,9 +14,9 @@ stdio.h
 assert.h
 -
 LibList.h
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.h
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.h
 stdlib.h
 -
 stdio.h
@@ -24,7 +24,7 @@ stdio.h
 assert.h
 -
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.c
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c
 stdlib.h
 -
 stdio.h
@@ -32,9 +32,9 @@ stdio.h
 assert.h
 -
 LibQueue.h
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.h
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.h
 stdlib.h
 -
 stdio.h
@@ -42,7 +42,7 @@ stdio.h
 assert.h
 -
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.c
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c
 stdlib.h
 -
 stdio.h
@@ -50,9 +50,9 @@ stdio.h
 assert.h
 -
 LibStack.h
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.h
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.h
 stdlib.h
 -
 stdio.h
@@ -60,15 +60,15 @@ stdio.h
 assert.h
 -
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/assignment2.c
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/assignment2.c
 stdio.h
 -
 stdlib.h
 -
 scanner.h
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.h
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.c
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c
 stdio.h
 -
 stdlib.h
@@ -80,7 +80,7 @@ ctype.h
 assert.h
 -
 scanner.h
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.h
 
-/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.h
+/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.h
 

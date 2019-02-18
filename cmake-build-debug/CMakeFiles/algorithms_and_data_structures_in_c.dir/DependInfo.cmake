@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.c" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o"
-  "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.c" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o"
-  "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.c" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o"
-  "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/assignment2.c" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o"
-  "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.c" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o"
+  "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c" "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o"
+  "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c" "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o"
+  "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c" "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o"
+  "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/assignment2.c" "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o"
+  "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c" "/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

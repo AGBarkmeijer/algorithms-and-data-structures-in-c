@@ -31,7 +31,6 @@ set(SOURCE_FILES
         cmake-build-debug/cmake_install.cmake
         cmake-build-debug/CMakeCache.txt
         cmake-build-debug/Makefile
-        LICENSE
         README.md)
 
 add_executable(algorithms_and_data_structures_in_c ${SOURCE_FILES})

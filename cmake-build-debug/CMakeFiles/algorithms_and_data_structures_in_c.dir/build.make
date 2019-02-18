@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy"
+CMAKE_SOURCE_DIR = /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug"
+CMAKE_BINARY_DIR = /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/algorithms_and_data_structures_in_c.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o: assignment1code/LibList.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o   -c "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.c" > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.i
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.c" -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.s
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.p
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o: assignment1code/LibQueue.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o   -c "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.c" > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.i
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.c" -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.s
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o: assignment1code/LibStack.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o   -c "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.c" > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.i
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.c" -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o: assignment2code/assignment2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o   -c "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/assignment2.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/assignment2.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/assignment2.c" > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/assignment2.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.i
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/assignment2.c" -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/assignment2.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.s
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o: assignment2code/scanner.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o   -c "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.c" > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.i
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.c" -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.s
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o.requires:
 
@@ -195,7 +195,7 @@ algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_i
 algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o
 algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make
 algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable algorithms_and_data_structures_in_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable algorithms_and_data_structures_in_c"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithms_and_data_structures_in_c.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -216,6 +216,6 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/clean:
 .PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/clean
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/depend:
-	cd "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug" "/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles/algorithms_and_data_structures_in_c.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/depend
 

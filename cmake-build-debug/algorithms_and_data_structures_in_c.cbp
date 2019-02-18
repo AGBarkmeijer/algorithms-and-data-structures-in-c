@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug"/>
+				<Option working_dir="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug"/>
+				<Option working_dir="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug"/>
+				<Option working_dir="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithms_and_data_structures_in_c">
-				<Option output="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/algorithms_and_data_structures_in_c" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug"/>
+				<Option output="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/algorithms_and_data_structures_in_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithms_and_data_structures_in_c"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithms_and_data_structures_in_c"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithms_and_data_structures_in_c/fast">
-				<Option output="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/algorithms_and_data_structures_in_c" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug"/>
+				<Option output="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/algorithms_and_data_structures_in_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,59 +75,56 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithms_and_data_structures_in_c/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/Desktop/algorithms-and-data-structures-in-c\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithms_and_data_structures_in_c/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/LICENSE">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/README.md">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/README.md">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Algorithms_Data_Structures.cbp">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/Algorithms_Data_Structures.cbp">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeCache.txt">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/CMakeCache.txt">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/Makefile">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/Makefile">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.c">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.h">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibList.h">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.c">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.h">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibQueue.h">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.c">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.h">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment1code/LibStack.h">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/assignment2.c">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/assignment2.c">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.c">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.h">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/assignment2code/scanner.h">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/cmake_install.cmake">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/cmake-build-debug/cmake_install.cmake">
-			<Option target="algorithms_and_data_structures_in_c"/>
-		</Unit>
-		<Unit filename="/Users/Geanne/Desktop/algorithms-and-data-structures-in-c copy/CMakeLists.txt">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
