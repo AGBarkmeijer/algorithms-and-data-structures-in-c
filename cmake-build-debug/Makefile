@@ -204,32 +204,59 @@ assignment1code/LibStack.c.s:
 	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s
 .PHONY : assignment1code/LibStack.c.s
 
-assignment2code/assignment2.o: assignment2code/assignment2.c.o
+assignment2code/mainRecogEq.o: assignment2code/mainRecogEq.c.o
 
-.PHONY : assignment2code/assignment2.o
+.PHONY : assignment2code/mainRecogEq.o
 
 # target to build an object file
-assignment2code/assignment2.c.o:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o
-.PHONY : assignment2code/assignment2.c.o
+assignment2code/mainRecogEq.c.o:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o
+.PHONY : assignment2code/mainRecogEq.c.o
 
-assignment2code/assignment2.i: assignment2code/assignment2.c.i
+assignment2code/mainRecogEq.i: assignment2code/mainRecogEq.c.i
 
-.PHONY : assignment2code/assignment2.i
+.PHONY : assignment2code/mainRecogEq.i
 
 # target to preprocess a source file
-assignment2code/assignment2.c.i:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.i
-.PHONY : assignment2code/assignment2.c.i
+assignment2code/mainRecogEq.c.i:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.i
+.PHONY : assignment2code/mainRecogEq.c.i
 
-assignment2code/assignment2.s: assignment2code/assignment2.c.s
+assignment2code/mainRecogEq.s: assignment2code/mainRecogEq.c.s
 
-.PHONY : assignment2code/assignment2.s
+.PHONY : assignment2code/mainRecogEq.s
 
 # target to generate assembly for a file
-assignment2code/assignment2.c.s:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.s
-.PHONY : assignment2code/assignment2.c.s
+assignment2code/mainRecogEq.c.s:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.s
+.PHONY : assignment2code/mainRecogEq.c.s
+
+assignment2code/recognizeEq.o: assignment2code/recognizeEq.c.o
+
+.PHONY : assignment2code/recognizeEq.o
+
+# target to build an object file
+assignment2code/recognizeEq.c.o:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o
+.PHONY : assignment2code/recognizeEq.c.o
+
+assignment2code/recognizeEq.i: assignment2code/recognizeEq.c.i
+
+.PHONY : assignment2code/recognizeEq.i
+
+# target to preprocess a source file
+assignment2code/recognizeEq.c.i:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.i
+.PHONY : assignment2code/recognizeEq.c.i
+
+assignment2code/recognizeEq.s: assignment2code/recognizeEq.c.s
+
+.PHONY : assignment2code/recognizeEq.s
+
+# target to generate assembly for a file
+assignment2code/recognizeEq.c.s:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.s
+.PHONY : assignment2code/recognizeEq.c.s
 
 assignment2code/recognizeExp.o: assignment2code/recognizeExp.c.o
 
@@ -303,9 +330,12 @@ help:
 	@echo "... assignment1code/LibStack.o"
 	@echo "... assignment1code/LibStack.i"
 	@echo "... assignment1code/LibStack.s"
-	@echo "... assignment2code/assignment2.o"
-	@echo "... assignment2code/assignment2.i"
-	@echo "... assignment2code/assignment2.s"
+	@echo "... assignment2code/mainRecogEq.o"
+	@echo "... assignment2code/mainRecogEq.i"
+	@echo "... assignment2code/mainRecogEq.s"
+	@echo "... assignment2code/recognizeEq.o"
+	@echo "... assignment2code/recognizeEq.i"
+	@echo "... assignment2code/recognizeEq.s"
 	@echo "... assignment2code/recognizeExp.o"
 	@echo "... assignment2code/recognizeExp.i"
 	@echo "... assignment2code/recognizeExp.s"

@@ -20,11 +20,15 @@ set(SOURCE_FILES
         #cmake-build-debug/assignment2code/mainEvalExp.c
         #cmake-build-debug/assignment2code/mainRecog.c
         #cmake-build-debug/assignment2code/mainScan.c
-        cmake-build-debug/assignment2code/assignment2.c
         cmake-build-debug/assignment2code/recognizeExp.c
         cmake-build-debug/assignment2code/recognizeExp.h
         cmake-build-debug/assignment2code/scanner.c
         cmake-build-debug/assignment2code/scanner.h
+        #cmake-build-debug/assignment2code/assignment2.c
+
+        cmake-build-debug/assignment2code/mainRecogEq.c
+        cmake-build-debug/assignment2code/recognizeEq.c
+        cmake-build-debug/assignment2code/recognizeEq.h
 
 
         cmake-build-debug/Algorithms_Data_Structures.cbp

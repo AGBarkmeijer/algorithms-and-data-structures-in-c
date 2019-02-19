@@ -112,7 +112,13 @@
 		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.h">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
-		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/assignment2.c">
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/mainRecogEq.c">
+			<Option target="algorithms_and_data_structures_in_c"/>
+		</Unit>
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeEq.c">
+			<Option target="algorithms_and_data_structures_in_c"/>
+		</Unit>
+		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeEq.h">
 			<Option target="algorithms_and_data_structures_in_c"/>
 		</Unit>
 		<Unit filename="/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeExp.c">

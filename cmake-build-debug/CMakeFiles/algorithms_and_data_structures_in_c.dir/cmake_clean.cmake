@@ -2,9 +2,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o"
   "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o"
   "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o"
-  "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/assignment2.c.o"
   "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o"
   "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o"
+  "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o"
+  "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o"
   "algorithms_and_data_structures_in_c.pdb"
   "algorithms_and_data_structures_in_c"
 )
