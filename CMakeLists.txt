@@ -6,17 +6,17 @@ set(CMAKE_CXX_STANDARD 11)
 set(SOURCE_FILES
 
         # WEEK 1
-        cmake-build-debug/assignment1code/LibList.c
-        cmake-build-debug/assignment1code/LibList.h
-        cmake-build-debug/assignment1code/LibQueue.c
-        cmake-build-debug/assignment1code/LibQueue.h
-        cmake-build-debug/assignment1code/LibStack.c
-        cmake-build-debug/assignment1code/LibStack.h
+        #cmake-build-debug/assignment1code/LibList.c
+        #cmake-build-debug/assignment1code/LibList.h
+        #cmake-build-debug/assignment1code/LibQueue.c
+        #cmake-build-debug/assignment1code/LibQueue.h
+        #cmake-build-debug/assignment1code/LibStack.c
+        #cmake-build-debug/assignment1code/LibStack.h
         #cmake-build-debug/assignment1code/signals.c
 
         # WEEK 2
-        #cmake-build-debug/assignment2code/evalExp.c
-        #cmake-build-debug/assignment2code/evalExp.h
+        cmake-build-debug/assignment2code/evalExp.c
+        cmake-build-debug/assignment2code/evalExp.h
         #cmake-build-debug/assignment2code/mainEvalExp.c
         #cmake-build-debug/assignment2code/mainRecog.c
         #cmake-build-debug/assignment2code/mainScan.c
@@ -26,9 +26,13 @@ set(SOURCE_FILES
         cmake-build-debug/assignment2code/scanner.h
         #cmake-build-debug/assignment2code/assignment2.c
 
-        cmake-build-debug/assignment2code/mainRecogEq.c
+        #cmake-build-debug/assignment2code/mainRecogEq.c
         cmake-build-debug/assignment2code/recognizeEq.c
         cmake-build-debug/assignment2code/recognizeEq.h
+        #cmake-build-debug/assignment2code/eqSolver.c
+        #cmake-build-debug/assignment2code/eqSolver.h
+        #cmake-build-debug/assignment2code/mainEvalExp.c
+        cmake-build-debug/assignment2code/mainSolveEq.c
 
 
         cmake-build-debug/Algorithms_Data_Structures.cbp

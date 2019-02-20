@@ -13,4 +13,5 @@ int sameIdentifier(char *id1, char *id2);
 int checkVarAndDegree(List *tl);
 void recognizeEquations();
 
+
 #endif

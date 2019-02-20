@@ -7,11 +7,12 @@
 #include <stdio.h>
 #include <assert.h>
 #include <math.h>
-#include "scanner.h"
-#include "recognizeExp.h"
-#include "recognizeEq.h"
+#include "scanner.c"
+#include "recognizeExp.c"
+#include "recognizeEq.c"
+#include "eqSolver.c"
 
 int main(int argc, char *argv[]) {
-  recognizeEquations();
+  recognizeAnDSolveEquation();
   return 0;
 }

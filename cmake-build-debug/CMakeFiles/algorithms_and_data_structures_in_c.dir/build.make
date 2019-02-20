@@ -57,81 +57,33 @@ include CMakeFiles/algorithms_and_data_structures_in_c.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o: assignment1code/LibList.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o: assignment2code/evalExp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/evalExp.c
 
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.i
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/evalExp.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.i
 
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibList.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.s
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/evalExp.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.s
 
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.requires:
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o.requires:
 
-.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.requires
+.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o.requires
 
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.provides: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.requires
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.provides.build
-.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.provides
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o.provides: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o.requires
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o.provides.build
+.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o.provides
 
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.provides.build: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o
-
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o: assignment1code/LibQueue.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.i
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibQueue.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.s
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.requires:
-
-.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.requires
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.provides: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.requires
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.provides.build
-.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.provides
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.provides.build: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o
-
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o: assignment1code/LibStack.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.i
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment1code/LibStack.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.requires:
-
-.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.requires
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.provides: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.requires
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.provides.build
-.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.provides
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.provides.build: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o.provides.build: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o
 
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o: assignment2code/recognizeExp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeExp.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.i: cmake_force
@@ -155,7 +107,7 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o: assignment2code/scanner.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/scanner.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.i: cmake_force
@@ -177,33 +129,9 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o.p
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o.provides.build: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o
 
 
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o: assignment2code/mainRecogEq.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/mainRecogEq.c
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/mainRecogEq.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.i
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/mainRecogEq.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.s
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o.requires:
-
-.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o.requires
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o.provides: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o.requires
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o.provides.build
-.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o.provides
-
-CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o.provides.build: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o
-
-
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o: assignment2code/recognizeEq.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/recognizeEq.c
 
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.i: cmake_force
@@ -225,29 +153,49 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c
 CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o.provides.build: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o
 
 
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o: CMakeFiles/algorithms_and_data_structures_in_c.dir/flags.make
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o: assignment2code/mainSolveEq.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o   -c /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/mainSolveEq.c
+
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/mainSolveEq.c > CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.i
+
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/assignment2code/mainSolveEq.c -o CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.s
+
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o.requires:
+
+.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o.requires
+
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o.provides: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o.requires
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o.provides.build
+.PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o.provides
+
+CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o.provides.build: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o
+
+
 # Object files for target algorithms_and_data_structures_in_c
 algorithms_and_data_structures_in_c_OBJECTS = \
-"CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o" \
-"CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o" \
-"CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o" \
+"CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o" \
 "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o" \
 "CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o" \
-"CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o" \
-"CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o"
+"CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o" \
+"CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o"
 
 # External object files for target algorithms_and_data_structures_in_c
 algorithms_and_data_structures_in_c_EXTERNAL_OBJECTS =
 
-algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o
-algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o
-algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o
+algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o
 algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o
 algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o
-algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o
 algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o
+algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o
 algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make
 algorithms_and_data_structures_in_c: CMakeFiles/algorithms_and_data_structures_in_c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable algorithms_and_data_structures_in_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Geanne/SoftwareDevelopment/GIT_ROOT/algorithms-and-data-structures-in-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable algorithms_and_data_structures_in_c"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithms_and_data_structures_in_c.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -255,13 +203,11 @@ CMakeFiles/algorithms_and_data_structures_in_c.dir/build: algorithms_and_data_st
 
 .PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/build
 
-CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o.requires
-CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o.requires
-CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o.requires
+CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o.requires
 CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeExp.c.o.requires
 CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/scanner.c.o.requires
-CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o.requires
 CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/recognizeEq.c.o.requires
+CMakeFiles/algorithms_and_data_structures_in_c.dir/requires: CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o.requires
 
 .PHONY : CMakeFiles/algorithms_and_data_structures_in_c.dir/requires
 

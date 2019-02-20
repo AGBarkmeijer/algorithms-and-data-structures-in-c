@@ -123,113 +123,59 @@ algorithms_and_data_structures_in_c/fast:
 	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/build
 .PHONY : algorithms_and_data_structures_in_c/fast
 
-assignment1code/LibList.o: assignment1code/LibList.c.o
+assignment2code/evalExp.o: assignment2code/evalExp.c.o
 
-.PHONY : assignment1code/LibList.o
-
-# target to build an object file
-assignment1code/LibList.c.o:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.o
-.PHONY : assignment1code/LibList.c.o
-
-assignment1code/LibList.i: assignment1code/LibList.c.i
-
-.PHONY : assignment1code/LibList.i
-
-# target to preprocess a source file
-assignment1code/LibList.c.i:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.i
-.PHONY : assignment1code/LibList.c.i
-
-assignment1code/LibList.s: assignment1code/LibList.c.s
-
-.PHONY : assignment1code/LibList.s
-
-# target to generate assembly for a file
-assignment1code/LibList.c.s:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibList.c.s
-.PHONY : assignment1code/LibList.c.s
-
-assignment1code/LibQueue.o: assignment1code/LibQueue.c.o
-
-.PHONY : assignment1code/LibQueue.o
+.PHONY : assignment2code/evalExp.o
 
 # target to build an object file
-assignment1code/LibQueue.c.o:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.o
-.PHONY : assignment1code/LibQueue.c.o
+assignment2code/evalExp.c.o:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.o
+.PHONY : assignment2code/evalExp.c.o
 
-assignment1code/LibQueue.i: assignment1code/LibQueue.c.i
+assignment2code/evalExp.i: assignment2code/evalExp.c.i
 
-.PHONY : assignment1code/LibQueue.i
+.PHONY : assignment2code/evalExp.i
 
 # target to preprocess a source file
-assignment1code/LibQueue.c.i:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.i
-.PHONY : assignment1code/LibQueue.c.i
+assignment2code/evalExp.c.i:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.i
+.PHONY : assignment2code/evalExp.c.i
 
-assignment1code/LibQueue.s: assignment1code/LibQueue.c.s
+assignment2code/evalExp.s: assignment2code/evalExp.c.s
 
-.PHONY : assignment1code/LibQueue.s
+.PHONY : assignment2code/evalExp.s
 
 # target to generate assembly for a file
-assignment1code/LibQueue.c.s:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibQueue.c.s
-.PHONY : assignment1code/LibQueue.c.s
+assignment2code/evalExp.c.s:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/evalExp.c.s
+.PHONY : assignment2code/evalExp.c.s
 
-assignment1code/LibStack.o: assignment1code/LibStack.c.o
+assignment2code/mainSolveEq.o: assignment2code/mainSolveEq.c.o
 
-.PHONY : assignment1code/LibStack.o
+.PHONY : assignment2code/mainSolveEq.o
 
 # target to build an object file
-assignment1code/LibStack.c.o:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.o
-.PHONY : assignment1code/LibStack.c.o
+assignment2code/mainSolveEq.c.o:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.o
+.PHONY : assignment2code/mainSolveEq.c.o
 
-assignment1code/LibStack.i: assignment1code/LibStack.c.i
+assignment2code/mainSolveEq.i: assignment2code/mainSolveEq.c.i
 
-.PHONY : assignment1code/LibStack.i
-
-# target to preprocess a source file
-assignment1code/LibStack.c.i:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.i
-.PHONY : assignment1code/LibStack.c.i
-
-assignment1code/LibStack.s: assignment1code/LibStack.c.s
-
-.PHONY : assignment1code/LibStack.s
-
-# target to generate assembly for a file
-assignment1code/LibStack.c.s:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment1code/LibStack.c.s
-.PHONY : assignment1code/LibStack.c.s
-
-assignment2code/mainRecogEq.o: assignment2code/mainRecogEq.c.o
-
-.PHONY : assignment2code/mainRecogEq.o
-
-# target to build an object file
-assignment2code/mainRecogEq.c.o:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.o
-.PHONY : assignment2code/mainRecogEq.c.o
-
-assignment2code/mainRecogEq.i: assignment2code/mainRecogEq.c.i
-
-.PHONY : assignment2code/mainRecogEq.i
+.PHONY : assignment2code/mainSolveEq.i
 
 # target to preprocess a source file
-assignment2code/mainRecogEq.c.i:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.i
-.PHONY : assignment2code/mainRecogEq.c.i
+assignment2code/mainSolveEq.c.i:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.i
+.PHONY : assignment2code/mainSolveEq.c.i
 
-assignment2code/mainRecogEq.s: assignment2code/mainRecogEq.c.s
+assignment2code/mainSolveEq.s: assignment2code/mainSolveEq.c.s
 
-.PHONY : assignment2code/mainRecogEq.s
+.PHONY : assignment2code/mainSolveEq.s
 
 # target to generate assembly for a file
-assignment2code/mainRecogEq.c.s:
-	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainRecogEq.c.s
-.PHONY : assignment2code/mainRecogEq.c.s
+assignment2code/mainSolveEq.c.s:
+	$(MAKE) -f CMakeFiles/algorithms_and_data_structures_in_c.dir/build.make CMakeFiles/algorithms_and_data_structures_in_c.dir/assignment2code/mainSolveEq.c.s
+.PHONY : assignment2code/mainSolveEq.c.s
 
 assignment2code/recognizeEq.o: assignment2code/recognizeEq.c.o
 
@@ -321,18 +267,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... algorithms_and_data_structures_in_c"
-	@echo "... assignment1code/LibList.o"
-	@echo "... assignment1code/LibList.i"
-	@echo "... assignment1code/LibList.s"
-	@echo "... assignment1code/LibQueue.o"
-	@echo "... assignment1code/LibQueue.i"
-	@echo "... assignment1code/LibQueue.s"
-	@echo "... assignment1code/LibStack.o"
-	@echo "... assignment1code/LibStack.i"
-	@echo "... assignment1code/LibStack.s"
-	@echo "... assignment2code/mainRecogEq.o"
-	@echo "... assignment2code/mainRecogEq.i"
-	@echo "... assignment2code/mainRecogEq.s"
+	@echo "... assignment2code/evalExp.o"
+	@echo "... assignment2code/evalExp.i"
+	@echo "... assignment2code/evalExp.s"
+	@echo "... assignment2code/mainSolveEq.o"
+	@echo "... assignment2code/mainSolveEq.i"
+	@echo "... assignment2code/mainSolveEq.s"
 	@echo "... assignment2code/recognizeEq.o"
 	@echo "... assignment2code/recognizeEq.i"
 	@echo "... assignment2code/recognizeEq.s"

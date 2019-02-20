@@ -60,7 +60,7 @@ int acceptCharacter(List *lp, char c) {
  * When that is the case, they yield the value 1 and the pointer points to the rest of
  * the token list. Otherwise they yield 0 and the pointer remains unchanged.
  */
-//
+
 int acceptFactor(List *lp) {
   return
     (  acceptNumber(lp)
@@ -95,6 +95,8 @@ int acceptExpression(List *lp) {
   } /* no + or -, so we reached the end of the expression */
   return 1;
 }
+
+
 
 /* The function recognizeExpressions demonstrates the recognizer. */
 void recognizeExpressions() {
